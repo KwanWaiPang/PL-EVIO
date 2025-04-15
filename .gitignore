@@ -1,0 +1,6 @@
+.DS_store
+.idea
+.vscode
+latex/Final_version.pdf
+latex/Final_version.bbl
+latex/Final_version.synctex.gz
